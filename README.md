@@ -1,5 +1,5 @@
 # Note
-This is made for users that are starting out with building simple CRUD web applications with local host.
+This is made for users that are starting out with building simple CRUD web applications using localhost.
 
 ## Techstack
 React
