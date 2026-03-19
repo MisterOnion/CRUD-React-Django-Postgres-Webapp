@@ -75,17 +75,17 @@ If the READ and CREATE functions are operational, it will look something like th
 <img width="708" height="325" alt="image" src="https://github.com/user-attachments/assets/cc51e581-6700-4420-b042-a7da89928ad0" />
 
 <i><u>Local hosting the project</u></i>\
-Start the Postgres DB\
-1.	Open pgAdmin4 to start up the database\
+Start the Postgres DB
+1.	Open pgAdmin4 to start up the database
 
 Start the Django application\
-1.	Go to the backend folder, where manage.py file is located.\
-2.	Start a new terminal.\
-3.	Type “python manage.py runserver” to start the Django application.\
+1.	Go to the backend folder, where manage.py file is located.
+2.	Start a new terminal.
+3.	Type “python manage.py runserver” to start the Django application.
 
 Start the React web application\
-1.	Go to the “main.jsx” file\
-2.	Start a new terminal and type in “npm run dev” to local host the web app.\
+1.	Go to the “main.jsx” file
+2.	Start a new terminal and type in “npm run dev” to local host the web app.
 
 “Ctrl + c” to kill any processes in the terminal
 
