@@ -19,7 +19,7 @@ In this folder, initialize a django project and a django application
 django-admin startproject services (create Django project command)\
 cd services\
 python manage.py startapp announcements (have Django execute the logics in the folder command)\
-'''\
+'''
 
 Using Postgres, we create a table (this is not complete information, look up Postgres tutorial on YouTube)
 
@@ -78,12 +78,12 @@ If the READ and CREATE functions are operational, it will look something like th
 Start the Postgres DB
 1.	Open pgAdmin4 to start up the database
 
-Start the Django application\
+Start the Django application
 1.	Go to the backend folder, where manage.py file is located.
 2.	Start a new terminal.
 3.	Type “python manage.py runserver” to start the Django application.
 
-Start the React web application\
+Start the React web application
 1.	Go to the “main.jsx” file
 2.	Start a new terminal and type in “npm run dev” to local host the web app.
 
